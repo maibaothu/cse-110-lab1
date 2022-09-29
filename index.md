@@ -13,9 +13,11 @@ Practices make perfect, in order to succeed in academic environment as well as f
 4. Utilize resources from school or working environment
 ## Programming languages
 Programming languages that I've learned including:
-- Java
-- C++
-- C
+```
+Java
+C++
+C
+```
 > My User Page file: [User Page](README.md)
 ## Goals
 My future goals:
@@ -26,10 +28,12 @@ My future goals:
 
 <sup> For more information, directly contact me: tbmai@ucsd.edu
 
-Section links:
-  - [Welcome](https://github.com/maibaothu/cse-110-project/edit/new/index.md#welcome-its-thu-mai)
-  - [Introduction](https://github.com/maibaothu/cse-110-project/edit/new/index.md#introduction)
-  - [Advices](https://github.com/maibaothu/cse-110-project/edit/new/index.md#advices)
-  - [Programming Languages](https://github.com/maibaothu/cse-110-project/edit/new/index.md#programming-languages)
-  - [Goals](https://github.com/maibaothu/cse-110-project/edit/new/index.md#goals)
+*Section links:*
+  - [*Welcome*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#welcome-its-thu-mai)
+  - [*Introduction*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#introduction)
+  - [*Advices*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#advices)
+  - [*Programming Languages*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#programming-languages)
+  - [*Goals*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#goals)
+  
+# How about you?
   
