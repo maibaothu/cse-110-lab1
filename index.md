@@ -5,12 +5,14 @@
 > *My favorite programming language is: ``` Java ``` which also the first programming language I learned!*
 
 <sub>My GitHub link: [GitHub](https://github.com/maibaothu)
+  
 ## Advices
 Practices make perfect, in order to succeed in academic environment as well as future career:
 1. Draw plans and schedule things before jump right into tasks
 2. Health is the most important thing, make yourself comfortable
 3. Collaboration is encouraged, ask yourself and experts 
 4. Utilize resources from school or working environment
+  
 ## Programming languages
 Programming languages that I've learned including:
 ```
