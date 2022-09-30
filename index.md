@@ -29,11 +29,11 @@ My future goals:
 <sup> For more information, directly contact me: tbmai@ucsd.edu
 
 *Section links:*
-  - [*Welcome*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#welcome-its-thu-mai)
-  - [*Introduction*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#introduction)
-  - [*Advices*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#advices)
-  - [*Programming Languages*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#programming-languages)
-  - [*Goals*](https://github.com/maibaothu/cse-110-project/edit/new/index.md#goals)
+  - [*Welcome*](#welcome-its-thu-mai)
+  - [*Introduction*](#introduction)
+  - [*Advices*](#advices)
+  - [*Programming Languages*](#programming-languages)
+  - [*Goals*](#goals)
   
 # How about you?
   
